@@ -1,4 +1,4 @@
-# Software Engineer: Take home coding challenge
+# Carbon Chain
 
 Carbon Chain is building a simple application to search its database of emission models. Attached is our first pass on
 the implementation. It contains the basic application infrastructure, a controller and domain entities with initial
